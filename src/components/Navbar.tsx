@@ -25,7 +25,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               className="flex items-baseline gap-2.5 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-black dark:focus-visible:ring-white rounded"
             >
               <span className="font-bold text-lg sm:text-xl text-black dark:text-white tracking-tight font-serif">
-                রসায়ন জিজ্ঞাসা
+                ChemQB
               </span>
               <span className="text-sm text-black dark:text-white font-mono font-bold hidden sm:inline">
                 1000 Q&A
