@@ -1,0 +1,6 @@
+{
+  "name": "রসায়ন জিজ্ঞাসা - Chemistry 1000 Q&A",
+  "description": "রসায়নের ১০০০টি প্রশ্ন ও বিস্তারিত উত্তরের সংকলন ও ইন্টারঅ্যাক্টিভ পাঠশালা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
